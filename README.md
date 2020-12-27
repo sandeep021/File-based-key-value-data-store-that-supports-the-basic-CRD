@@ -39,7 +39,8 @@ Build a file-based key-value data store that supports the basic CRD (create, rea
   ```
 
 ## Demo
-   ![Alt text](screenshot/demo.png?raw=true "Optional Title")
+   ![Screenshot (162)](https://user-images.githubusercontent.com/41124504/103173944-319a2280-4884-11eb-9e41-5b6d323c2f09.png)
+
 
 
 
