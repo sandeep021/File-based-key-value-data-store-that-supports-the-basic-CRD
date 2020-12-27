@@ -9,7 +9,7 @@ def create(key, value, timeout=0):
     if key in dictionary:
         print("error: key alreday present duplicate keys not allowed")#error message
     else :
-        if(key.isalpha()):
+        if(type(key) == str):
             if len(dictionary)<(1024*1020*1024) and value<=(16*1024*1024):#checking the file size(less than 1GB and Jasonobject value less than 16KB is allowed)
                 if timeout==0:
                     value_list=[value,timeout]
