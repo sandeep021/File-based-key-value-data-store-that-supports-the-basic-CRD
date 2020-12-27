@@ -93,7 +93,8 @@ def update(key,value):
 #thread1.start()
 #thread1.sleep(time)
 
-"""create("sandeep",25)
+"""
+create("sandeep",25)
 time.sleep(1)
 create("index",70,3600)
 read("index")
